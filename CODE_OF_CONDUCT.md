@@ -41,9 +41,11 @@ Qualquer pessoa solicitada a interromper um comportamento inaceitável deve faz�
 
 Se você sofrer ou presenciar qualquer violação deste Código de Conduta, procure imediatamente a organização do MHC pessoalmente ou pelos nossos canais oficiais de contato. Todos os relatos serão tratados com sigilo, seriedade e foco na segurança de quem denunciou.
 
-## 7. Escopo e Licença
+## 7. Escopo, Revisões e Licença
 
 Este Código de Conduta aplica-se a todos os membros, visitantes, palestrantes e apoiadores em todas as atividades presenciais do Madeira Hacker Club, eventos externos em que o clube seja representado e ambientes digitais oficiais (grupos de mensagens, repositórios Git e infraestrutura do homelab).
+
+Este documento é vivo e mantido de forma colaborativa no repositório [MadeiraHackerSpace/estatuto](https://github.com/MadeiraHackerSpace/estatuto). Qualquer membro pode propor correções ou revisões seguindo os trâmites de discussão e Pull Request descritos no [CONTRIBUTING.md](https://github.com/MadeiraHackerSpace/estatuto/blob/main/CONTRIBUTING.md).
 
 *Inspirado no Código de Conduta do [Laboratório Hacker de Campinas (LHC)](https://github.com/lhc/estatuto/blob/master/src/codigo_conduta.md), no Código de Conduta de Berlim (Garoa HC), na Ética Hacker do CCC e nas práticas comunitárias do Noisebridge, Metalab e NYC Resistor. Distribuído sob licença CC BY-SA 4.0.*
 

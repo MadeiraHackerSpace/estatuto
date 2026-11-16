@@ -9,9 +9,10 @@ Repositório oficial de documentos de governança do **Madeira Hacker Club (MHC)
 
 ## Como Contribuir
 
-Propostas de melhoria, correções e atualizações devem ser enviadas via **Pull Request** ou discutidas previamente via **Issues**.
+Propostas de melhoria, correções e atualizações devem seguir os trâmites descritos no **[Guia de Contribuição e Alteração (CONTRIBUTING.md)](./CONTRIBUTING.md)**:
 
-Ao contribuir, procure manter o texto claro, em Markdown padrão e alinhado aos pilares de tecnologia livre, respeito mútuo e transparência do clube.
+- **Ajustes formais** (ortografia, formatação, links): envie um **Pull Request** diretamente.
+- **Alterações de mérito** (regras, escopo, consequências): abra uma **Issue** para discussão comunitária antes do Pull Request.
 
 ## Licença
 
